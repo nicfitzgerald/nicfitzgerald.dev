@@ -21,7 +21,7 @@ HTML uses elements enclosed in tags to structure content. Most elements have ope
 
 ## Essential Tools
 
-To get started, you'll need:
+To get started, you'll need::
 - A text editor (like VS Code, Sublime Text, or even Notepad)
 - A web browser to view your website
 
