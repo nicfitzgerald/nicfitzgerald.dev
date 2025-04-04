@@ -3,7 +3,7 @@ layout: ../../layouts/ProjectLayout.astro
 title: Portfolio
 description: A retro-inspired theme for Astro, built by RATIU5.
 tags: ["astro", "portfolio", "open-source"]
-githubUrl: https://github.com/nicfitzgerald/nicfitzgerald.dev
+githubUrl: nicfitzgerald/nicfitzgerald.dev
 timestamp: 2025-04-04T20:22:25+00:00
 featured: true
 filename: portfolio

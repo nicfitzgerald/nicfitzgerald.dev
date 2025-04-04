@@ -62,7 +62,11 @@ const sourceUrl = generateSourceUrl(frontmatter.filename, "projects");
       <div class="flex gap-2">
         {
           frontmatter.githubUrl ? (
-            <Anchor url={frontmatter.githubUrl} class="text-base" external>
+            <Anchor
+              url={`https://github.com/${frontmatter.githubUrl}`}
+              class="text-base"
+              external
+            >
               GitHub
             </Anchor>
           ) : null

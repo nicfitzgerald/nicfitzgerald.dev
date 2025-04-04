@@ -26,7 +26,7 @@ const { featuredProjects } = Astro.props;
             title={project.title}
             description={project.description}
             url={project.filename}
-            githubUrl={project.githubUrl}
+            githubUrl={`https://github.com/${project.githubUrl}`}
             liveUrl={project.liveUrl}
             tags={project.tags ?? []}
           />
