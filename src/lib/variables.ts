@@ -2,37 +2,36 @@
 
 export const GLOBAL = {
   // Site metadata
-  username: "Zaggonaut",
-  rootUrl: "https://zaggonaut.dev",
-  shortDescription: "Retro-Inspired Theme &<br /> Built for Astro",
-  longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
+  username: "NyxFitzgerald",
+  rootUrl: "https://nicfitzgerald.dev",
+  shortDescription: "Network engineer by trade, Go developer for fun.",
+  longDescription: "Blog and portfolio for Nyx, network engineer and Go developer,",
 
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
-  twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/",
+  githubProfile: "https://github.com/nicfitzgerald/nicfitzgerald.dev",
+  blueskyProfile: "https://bsky.app/profile/nicfitzgerald.dev",
 
   // Common text names used throughout the site
-  articlesName: "Articles",
+  articlesName: "Writings",
   projectsName: "Projects",
   viewAll: "View All",
 
   // Common descriptions used throughout the site
-  noArticles: "No featured articles yet.",
+  noArticles: "No featured Pieces yet.",
   noProjects: "No featured projects yet.",
 
   // Blog metadata
   blogTitle: "My Thoughts & Takes",
   blogShortDescription: "Practical wisdom, unfiltered thoughts, and hot takes.",
-  blogLongDescription: "Web development, tech trends, and the occasional programming mishap.",
+  blogLongDescription: "Thoughts on things as a whole, no particular topic",
 
   // Project metadata
   projectTitle: "Projects and Code",
   projectShortDescription: "A list of my web development projects and developer tools.",
-  projectLongDescription: "All of my projects, including both frontend and full-stack applications.",
+  projectLongDescription: "All of my projects, of all languages and types.",
 
   // Profile image
-  profileImage: "michael-dam-unsplash.webp",
+  profileImage: "raccoon.webp",
 
   // Menu items
   menu: {
