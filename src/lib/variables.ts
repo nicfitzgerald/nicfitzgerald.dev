@@ -2,7 +2,7 @@
 
 export const GLOBAL = {
   // Site metadata
-  username: "NyxFitzgerald",
+  username: "nyxfitzgerald",
   rootUrl: "https://nicfitzgerald.dev",
   shortDescription: "Network engineer by trade, Go developer for fun.",
   longDescription: "Blog and portfolio for Nyx, network engineer and Go developer,",
