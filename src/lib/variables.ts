@@ -8,7 +8,7 @@ export const GLOBAL = {
   longDescription: "Blog and portfolio for Nyx, network engineer and Go developer,",
 
   // Social media links
-  githubProfile: "https://github.com/nicfitzgerald/nicfitzgerald.dev",
+  githubProfile: "https://github.com/nicfitzgerald",
   blueskyProfile: "https://bsky.app/profile/nicfitzgerald.dev",
 
   // Common text names used throughout the site
