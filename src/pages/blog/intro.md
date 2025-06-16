@@ -13,6 +13,8 @@ filename: intro
 
 This will be used as the introduction to my blog. I will be writing about anything and everything - my coding journey, book reviews, and just general life.
 
+> I promise I'm going to get to this!
+
 ## Credits
 
 My quotes from various Brandon Sanderson works, namely from Stormlight Archive. My picture is [this sweet raccoon](https://unsplash.com/photos/black-and-white-animal-on-green-grass-during-daytime-P7Tn-_IbrKI) by [Marcus Dietachmair](https://unsplash.com/@marcus_d).
